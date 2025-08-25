@@ -1,0 +1,25 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fd3e01a6-8192-404d-ae56-8c771cb95e98")
+	(paper "A4")
+	(title_block
+		(title "UPS Lead Acid")
+		(date "2025-06-05")
+		(rev "1.0")
+		(company "Electgpl")
+	)
+	(lib_symbols)
+	(hierarchical_label "VSENSE"
+		(shape input)
+		(at 111.76 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "23024ffe-ae8a-4faf-aa6e-b07112776653")
+	)
+)
